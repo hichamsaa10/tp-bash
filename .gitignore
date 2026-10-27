@@ -1,0 +1,4 @@
+*.tmp
+*.swp
+backups/
+ci_workspace/
